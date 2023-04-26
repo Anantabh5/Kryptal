@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Kryptal/static/css/main.955063e3.css",
+    "main.js": "/Kryptal/static/js/main.b3b73f6a.js",
+    "static/media/cr.jpg": "/Kryptal/static/media/cr.a6da4824472fe20616a8.jpg",
+    "index.html": "/Kryptal/index.html",
+    "main.955063e3.css.map": "/Kryptal/static/css/main.955063e3.css.map",
+    "main.b3b73f6a.js.map": "/Kryptal/static/js/main.b3b73f6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.955063e3.css",
+    "static/js/main.b3b73f6a.js"
+  ]
+}
